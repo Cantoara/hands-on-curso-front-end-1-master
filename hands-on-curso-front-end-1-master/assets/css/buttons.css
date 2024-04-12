@@ -4,6 +4,17 @@
 }
 .btn.btn-laranja
 {
-    background: #ff6633;
+    display: block;
+    margin: 0 2px;
+    text-decoration: none;
+    color: white;
+    background-color: #ffb36b; /* Laranja */
+    transition: background-color 0.3s;
+    border-radius: 15px; /* Arredonda as bordas */
+
+}
+.btn.btn-laranja:hover
+{
+    background: #ff6347; /* Laranja mais escuro*/
 
 }
