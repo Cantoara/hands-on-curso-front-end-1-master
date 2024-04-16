@@ -33,10 +33,18 @@
         background-size: 650px;
     }
 }
-@media (max-widht: 1320px)
+@media (max-widht: 1220px)
 {
     body
     {
         background-size: 600px;
+    }
+}
+}
+@media (max-widht: 1100px)
+{
+    body
+    {
+        background-size: 300px;
     }
 }
